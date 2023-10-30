@@ -1,0 +1,14 @@
+#DD {
+  background-color: black;
+}
+.Dd {
+  color: white;
+}
+#Dt {
+  border: solid white 2px;
+}
+.Dd1 {
+  color: white;
+  width: fit-content;
+  border-bottom: solid white 2px;
+}
